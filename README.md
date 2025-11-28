@@ -34,3 +34,5 @@ Run these commands before running the script:
 ```bash
 export WOFFU_EMAIL="your_email@bsc.es"
 export WOFFU_PASSWORD="your_secure_password"
+export WOFFU_URL="https://example.woffu.com"
+```
